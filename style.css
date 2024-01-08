@@ -1,0 +1,41 @@
+.header{
+    background-image:  url(Bg-Image.png);
+    width: 1300px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+background-size: cover;
+display: flex;
+flex-flow: row wrap;
+justify-content: center;
+
+    
+
+}
+.header h3{
+
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 100px;
+width: 100%;
+
+}
+
+.header h1{
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */color: #FFF;
+width: 100%;
+
+
+}
